@@ -27,12 +27,12 @@ int main() {
 			temp[ttemp] = string[i];
 			ttemp++;
 		}
+
 		//printf("\nbefore\n");
 		//for (int j = 0; j <= important; j++) printf("%c", string[j]);
 		//printf("\n\nafter\n");
 		//for (int j = 0; j <= important; j++) printf("%c", temp[j]);
 		
-
 		for (int j = 0; j <= important; j++) {
 
 			if (j == important) isTrue[a] = 1;
